@@ -5,3 +5,5 @@ test with user config as watchmanplugins
 test from fork
 
 test from fork as allpurposeben
+
+test with agent entry removed
