@@ -1,1 +1,3 @@
 test as watchmanplugins
+
+test with user config as watchmanplugins
