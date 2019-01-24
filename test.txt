@@ -7,3 +7,5 @@ test from fork
 test from fork as allpurposeben
 
 test with agent entry removed
+
+test with only 'git config' setup
