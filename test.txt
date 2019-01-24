@@ -1,3 +1,5 @@
 test as watchmanplugins
 
 test with user config as watchmanplugins
+
+test from fork
